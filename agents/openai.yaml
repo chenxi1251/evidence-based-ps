@@ -1,0 +1,4 @@
+interface:
+  display_name: "Evidence-Based PS"
+  short_description: "Build factual, focused graduate personal statements"
+  default_prompt: "Use $evidence-based-ps to turn my verified experiences into a focused postgraduate personal statement."
